@@ -1,6 +1,6 @@
 # 🔎 Análise de Sentimento com BERT
 
-Oi, Mia aqui! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
+Oi, Mia aqui! ≽^• ˕ • ྀི≼
 Se tem uma coisa que me fascina, é como palavras carregam camadas de significado. ⸜(｡˃ ᵕ ˂ )⸝♡
 Algumas marcas despertam paixão, outras irritação, e às vezes a gente só segue a vida sem se importar muito, mas como isso se traduz na linguagem? 
 Como verbos e adjetivos revelam nossas percepções sobre empresas gigantes como Google, Tesla, Coca-Cola e Meta?
@@ -21,7 +21,7 @@ A escolha não foi aleatória. Essas empresas dominam nossas interações diári
 - **Google** 🌍🔍 — Ferramenta essencial vs. invasão de dados e monopólio digital.
 
 Não estou interessada só na polaridade (*positivo/negativo*), mas nos **padrões linguísticos que sustentam essas percepções**.
-Espero conseguir aprimorar esse código no futuro para chegar no resultado que imaginei, por são quase 1 am e é melhor parar enquanto mais bugs não surgem kkkcrying.
+Espero conseguir aprimorar esse código no futuro, para chegar no resultado que imaginei. Mas "not today", pois já são quase 1am e é melhor parar, enquanto mais bugs não surgem kkkcrying. ಥ‿ಥ
 
 ## 🛠️ **O que o código faz?**
 
@@ -73,4 +73,4 @@ curl -X POST http://127.0.0.1:5000/predict \
 ✅ Ajustar hiperparâmetros para refinar o modelo.  
 ✅ Explorar emoções mais específicas além de positivo/negativo.  
 
-✉️ **Dúvidas, surtos ou sugestões? Deixe seu recado após o beep.** BEEEEEEP! 
+✉️ **Dúvidas, surtos ou sugestões? Deixe seu recado após o bocejo:** /ᐠ - ˕ -マ ᶻ 𝗓 𐰁
