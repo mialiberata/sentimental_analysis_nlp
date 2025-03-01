@@ -21,7 +21,7 @@ A escolha não foi aleatória. Essas empresas dominam nossas interações diári
 - **Google** 🌍🔍 — Ferramenta essencial vs. invasão de dados e monopólio digital.
 
 Não estou interessada só na polaridade (*positivo/negativo*), mas nos **padrões linguísticos que sustentam essas percepções**.
-Espero conseguir aprimorar esse código no futuro para chegar no resultado que imagino.
+Espero conseguir aprimorar esse código no futuro para chegar no resultado que imaginei, por são quase 1 am e é melhor parar enquanto mais bugs não surgem kkkcrying.
 
 ## 🛠️ **O que o código faz?**
 
