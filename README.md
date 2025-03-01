@@ -1,7 +1,7 @@
 # 🔎 Análise de Sentimento com BERT
 
 Oi, Mia aqui! ≽^• ˕ • ྀི≼
-Se tem uma coisa que me fascina, é como palavras carregam camadas de significados. .₊̣̇.ಇ/ᐠˬ ͜ ˬ ᐟ\∫.₊̣̇.
+Se tem uma coisa que me fascina, é como palavras carregam camadas de significados.
 Algumas marcas despertam paixão, outras irritação, e às vezes a gente só segue a vida sem se importar muito. Mas como isso se traduz na linguagem? 
 Como verbos e adjetivos revelam nossas percepções sobre empresas gigantes como Google, Tesla, Coca-Cola e Meta?
 
